@@ -34,7 +34,7 @@ export default class Server {
 			this.#app.use(router.getRouter());
 		});
 
-		this.#server = this.#app.listen(this.#port, this.#host, () => {
+		this.#server = this.#app.listen(this.#port, this.#host, "0.0.0.0", () => {
 			console.log(
 				`Server is running on http://${this.#server.address().address}:${
 					this.#server.address().port
