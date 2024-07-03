@@ -3,7 +3,7 @@ import AuthRoutes from "./src/routes/Auth.routes.js";
 import Server from "./src/server/Server.js";
 import Database from "./src/database/Database.js";
 import RegisterRoutes from "./src/routes/Register.route.js";
-import CryptoRoutes from "./src/routes/cryptocurrency.route.js";
+import CryptoRoutes from "./src/routes/Cryptocurrency.route.js";
 import WatchlistRoutes from "./src/routes/Watchlist.routes.js";
 
 Config.load();
