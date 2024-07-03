@@ -1,0 +1,43 @@
+.header {
+	background-color: #9fb4c7;
+}
+
+#container {
+	background-color: #9fb4c7;
+}
+#navbarNav {
+	justify-content: flex-end;
+}
+#navbar {
+	height: 60px;
+}
+
+#watchlistLink {
+	color: #28587b;
+	font-weight: bold;
+}
+#homeLink {
+	color: #28587b;
+	font-weight: bold;
+}
+#login {
+	background-color: #28587b;
+	border-color: #28587b;
+	width: 100px;
+}
+#loginLink {
+	color: white;
+	text-decoration: none;
+}
+#login:hover {
+	background-color: #1d405a;
+}
+
+#logout {
+	background-color: #28587b;
+	border-color: #28587b;
+}
+
+#logout:hover {
+	background-color: #1d405a;
+}

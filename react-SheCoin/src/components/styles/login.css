@@ -1,0 +1,49 @@
+#cardBody {
+	background-color: #28587b;
+	border-color: #28587b;
+	border-radius: 10px;
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2),
+		inset 0px 1px 3px rgba(0, 0, 0, 0.1);
+	height: 380px;
+}
+
+#cardBackground {
+	background-color: #28587b;
+	border-radius: 10px;
+	height: 380px;
+}
+
+#loginForm {
+	border-color: #28587b;
+	margin: 50px;
+}
+
+#btnLogin {
+	background-color: #7f7caf;
+	border-color: #7f7caf;
+	width: 130px;
+	margin: 5px;
+}
+#btnSign {
+	background-color: #7f7caf;
+	border-color: #7f7caf;
+	width: 130px;
+	margin: 5px;
+}
+
+#btnLogin:hover {
+	background-color: #625f87;
+}
+
+#btnSign:hover {
+	background-color: #625f87;
+}
+
+label {
+	color: white;
+}
+
+#passwordHelpBlock {
+	color: #a3a0a0;
+	margin: 20px;
+}

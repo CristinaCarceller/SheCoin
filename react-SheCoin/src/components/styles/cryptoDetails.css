@@ -1,0 +1,29 @@
+#infoBackground {
+	background-color: rgb(127, 124, 175, 0.6);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2),
+		inset 0px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+#title {
+	color: #28587b;
+	margin-top: 30px;
+	font-weight: bolder;
+}
+
+.moreInfo {
+	padding: 5px;
+	text-align: justify;
+	font-size: large;
+}
+
+#cardContainer {
+	margin-top: 70px;
+	justify-content: center;
+	align-content: center;
+}
+
+#chartBody {
+	background-color: rgb(127, 124, 175, 0.3);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2),
+		inset 0px 1px 3px rgba(0, 0, 0, 0.1);
+}
